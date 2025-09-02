@@ -1,0 +1,19 @@
+# R temporary files
+.Rhistory
+.RData
+.Rproj.user
+
+# RStudio project files
+*.Rproj
+
+# Shiny app temporary files
+*.html
+*.pdf
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore any other unnecessary files
+*.log
+*.tmp
